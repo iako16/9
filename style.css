@@ -1,0 +1,108 @@
+*{
+    margin: 0;
+    padding: 0;
+    list-style-type: none;
+    list-style-type: none;
+    text-decoration: none;
+    box-sizing: border-box;
+}
+.jobs{
+    width: 660px;
+    height: 180px;
+    padding-bottom: 50px;
+}
+.jobs p{
+    padding-left: 180px;
+    padding-top: 70px;
+    font-size: 25px;
+    font-style: Brandon Grotesque, Bold;
+}
+.jobs-email p{
+    font-size: 18px;
+}
+.jobs-email {
+    width: 651px;
+    height: 85px;
+    padding-bottom: 50px;
+}
+.charge{
+    padding-top: 130px;
+    display: flex;
+    padding-left: 170px;
+    
+}
+.charge-small{
+    width: 315px;
+    height: 187px;
+    background-color: blue;
+    flex-direction: row;
+    margin: 10px;
+    
+}
+.charge-one{
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-top: 27px;
+    margin-left: 30px;
+}
+.cdd{
+    color: black;
+    font-size: 12;
+    padding-top: 30px;
+    margin-left: 30px;
+}
+.charge-two{
+    font-size: 14px;
+    color: #FFFFFF;
+    padding-top: 27px;
+    margin-left: 30px;
+}
+
+.ca{
+    padding-left: 750px;
+    padding-top: 100px;
+}
+.ca-main{
+    font-size: 25px;
+    font-style: bold;
+    font-weight: bold;
+}
+.ca-one{
+    font-size: 20px;
+    font-weight:lighter;
+    margin-top: 30px;
+}
+.ca-two{
+    font-size: 18px;
+    font-weight:lighter; 
+    margin-top: 20px;
+}
+.workers{
+    width:900px;
+    height: 600px;
+    background-color:white;
+    margin: 0 auto;
+    display: flex;
+    flex-flow: row wrap;
+
+}
+.workers-img{
+    background-color: white;
+    width: 120px;
+    height: 120px;
+    border-radius: 50%;
+    margin: 0 auto;
+    margin-top: 10px;
+    
+
+}
+.workers-info{
+    background-color: white;
+    width: 199px;
+    height: 250px;
+    display: flex;
+    flex-flow: row wrap;
+    margin-left: 80px;
+    margin-top: 20px;
+}
+.
